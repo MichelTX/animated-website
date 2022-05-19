@@ -1,6 +1,6 @@
 <h1> Animated-Website.</h1>
  
-<p> Site construído com HTML e CSS com animações.</P.
+<p> Site construído com HTML e CSS com animações.</p>
  
  <p>Seguindo tutorial disponível no Youtube em: https://www.youtube.com/watch?v=CZTCciHE72I</p>
  
